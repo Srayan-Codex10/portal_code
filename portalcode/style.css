@@ -1,0 +1,62 @@
+.navbar a:hover{
+    color: gray;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+header{
+    
+    background-color: aquamarine;
+    width: 100%
+}
+
+.navbar ul{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+ li{
+    
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+	padding: 30px;
+}
+
+.container_links a{
+    color: darkred;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container_links a:hover{
+    
+    color: red;
+}
+
+.links{
+    
+    text-align: center;
+}
+.container_links li{
+    
+    display: inline-block;
+    font-size: 50px;
+    padding: 20px;
+	border: 1px solid  gray;
+}
+
+
+.banner{
+    
+    
+}
+
+body{
+    
+    margin: 0;
+}
